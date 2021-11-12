@@ -10,4 +10,4 @@ Nowadays, Educational Institutions are giving a lot of emphasis on maintaining S
 Our feedback analysis model will thus enable the concerned authorities to understand the student’s  perception and their expected level of learning materials and course content. Analysing student feedback would help institutions to enhance student’s learning capabilities in the classroom and improve the overall quality of education.
 
 ## WEBSITE LINK
-_https://get-analysis.herokuapp.com/_
+https://student-sentimental-analysis.herokuapp.com
